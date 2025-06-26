@@ -94,3 +94,7 @@
   ```
   %프로젝트 폴더%/setting/result/result.xlsx
   ```
+
+## 6. Class 설계도
+
+![image](https://github.com/user-attachments/assets/07c544eb-24bd-4c49-a0dd-b99b48d7999e)
