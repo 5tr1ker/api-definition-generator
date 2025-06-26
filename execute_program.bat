@@ -1,0 +1,1 @@
+java -jar ./jar/definition_generator-1.0.0.jar
